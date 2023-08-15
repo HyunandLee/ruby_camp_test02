@@ -1,0 +1,2 @@
+# ruby_camp_test02
+RubyCampの夏のテストレポジトリ2
